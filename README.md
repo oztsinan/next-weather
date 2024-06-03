@@ -10,7 +10,7 @@ yarn dev
 ```
 
 ![input](https://i.hizliresim.com/48h30e2.png)
-|![weather info](https://i.hizliresim.com/19yru2e.png)  |  ![weather info](https://i.hizliresim.com/31c1as8.png)|
+|![cover](https://i.hizliresim.com/19yru2e.png)  |  ![weather info](https://i.hizliresim.com/31c1as8.png)|
 |--|--|
 
 | ![weather info](https://i.hizliresim.com/j4wq4ay.png) | ![weather info](https://i.hizliresim.com/t88e0m0.png) |
